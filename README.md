@@ -11,7 +11,7 @@
 
 I'm a **Senior QA Automation Lead / SDET** with **10+ years** of comprehensive quality engineering experience designing, scaling, and maintaining production-grade test automation frameworks across **Web, Mobile, and REST APIs**.
 
-- 🔭 **Latest Role:** **QA Lead / Lead SDET** at **Ingenuity Gaming** (Noida, India), leading an 8-member QA engineering team and architecting end-to-end **Playwright (TypeScript & JavaScript)** automation suites.
+- 🔭 **Latest Role:** **QA Lead / Lead SDET** at **Ingenuity Gaming** (Noida, India), leading and architecting end-to-end **Playwright (JavaScript)** automation suites.
 - ⚡ **Core Architecture:** Modular Page Object Model (POM) design, custom Playwright fixtures (`test.extend`), session state caching (`storageState`), cross-platform mobile emulation (iOS & Android viewports/touch gestures), and native REST API automation (`APIRequestContext`).
 - 🔥 **Performance & Backend Validation:** High-concurrency load, stress, and spike testing using **Apache JMeter**, alongside complex **SQL Server** data integrity verification.
 - 🤖 **AI-Assisted Quality Engineering:** Integrating **Cursor AI**, **Agentic AI**, and **Model Context Protocol (MCP)** workflows for intelligent test generation, synthetic boundary data creation, and self-healing locator strategies.
@@ -31,7 +31,7 @@ I'm a **Senior QA Automation Lead / SDET** with **10+ years** of comprehensive q
 
 | Role | Organization | Tenure | Key Engineering Contributions |
 | :--- | :--- | :--- | :--- |
-| **QA Lead / Lead SDET** | **Ingenuity Gaming** *(Noida, India)* | Jan 2022 – Present | Architected modular Playwright + TypeScript E2E, mobile emulation, and REST API frameworks from scratch (cutting regression cycles by **60%+**); engineered Apache JMeter load/stress suites; integrated Jenkins CI/CD with Allure reporting; led an 8-member QA team. |
+| **QA Lead / Lead SDET** | **Ingenuity Gaming** *(Noida, India)* | Jan 2022 – Oct 2026 | Architected modular Playwright + TypeScript E2E, mobile emulation, and REST API frameworks from scratch (cutting regression cycles by **60%+**); engineered Apache JMeter load/stress suites; integrated Jenkins CI/CD with Allure reporting; led an 8-member QA team. |
 | **Senior Test Engineer** | **MetLife Global Solution** *(Jaipur, India)* | Jan 2020 – Jan 2022 | Automated enterprise HRIS platforms (onboarding, payroll, benefits) using Playwright (TypeScript) and Selenium WebDriver, scaling automated regression coverage from **45% to 85%**. |
 | **Senior Implementation Analyst** | **Mercer Consulting India** *(Noida, India)* | Dec 2015 – Dec 2019 | Built and maintained Selenium WebDriver (Java + Maven + Jenkins) automation suites and performed complex SQL Server validation for enterprise retirement & superannuation platforms (*Mercer Edge*). |
 | **QA Analyst** | **United Health Group (Optum)** *(Noida, India)* | May 2014 – Sep 2015 | Executed functional, integration, regression, and SQL backend data validation for healthcare claims management systems. |
