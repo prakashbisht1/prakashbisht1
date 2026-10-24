@@ -1,4 +1,3 @@
-[readme.md](https://github.com/user-attachments/files/33915195/readme.md)
 # Hi there, I'm Prakash Singh Bisht 👋
 
 ### Lead SDET | Senior QA Automation Architect (Playwright • TypeScript • Mobile & API • JMeter • CI/CD • AI-Driven QE)
